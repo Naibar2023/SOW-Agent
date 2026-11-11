@@ -1,0 +1,1124 @@
+{
+ "cover_title": "RGB Roof Top Lighting – Granada Business Park",
+ "document_title": "Scope of Work (SOW)",
+ "sections": [
+  {
+   "heading": "Introduction",
+   "blocks": [
+    {
+     "type": "paragraph",
+     "text": "This Scope of Work (SOW) defines the requirements for the assessment, lighting design, supply, installation, programming, testing, and commissioning of an architectural RGB roof-top lighting system for the HR buildings (A1 to A6) and LR buildings (B1 to B4) at Granada Business Park, Riyadh."
+    },
+    {
+     "type": "paragraph",
+     "text": "The Contractor shall assess the current architectural design of each building and propose RGB lighting that suits and enhances that architecture, replacing the existing roof-top lighting. The work shall be delivered as a complete turnkey solution, including a central DMX control system and a 5-year comprehensive warranty."
+    }
+   ]
+  },
+  {
+   "heading": "Project Overview and Objectives:",
+   "blocks": [
+    {
+     "type": "paragraph",
+     "text": "The objective of this work is to give the buildings a coherent, high-quality night-time identity through architectural RGB lighting designed around the form, features and materials of each building. The Contractor shall assess the buildings, develop a lighting concept for Client approval, and then design, supply, install, program and commission the approved system."
+    },
+    {
+     "type": "paragraph",
+     "text": "Key objectives include:"
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "Assess the current architectural design of each building (roof profile, parapets, crowns, screens, cladding and finishes) and identify the features to be lit.",
+      "Propose a lighting concept that highlights the architecture and creates a unified identity across the HR and LR buildings.",
+      "Determine the suitable fixture types, locations, quantities, beam angles and colour effects for each building through the approved design.",
+      "Supply RGB fixtures of a Saudi local brand as first preference, or an approved alternative brand where no suitable local brand is available.",
+      "Provide a central DMX512 control system allowing each building to be controlled as an individual zone, as well as master control of all buildings.",
+      "Replace the existing roof-top lighting, including all power and DMX cabling, containment and associated electrical works.",
+      "Program static, dynamic and occasion scenes (Saudi National Day, Founding Day, Ramadan and Eid) with automatic astronomical scheduling.",
+      "Provide a 5-year comprehensive warranty covering fixtures, drivers, DMX components, controller and software."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Scope of Supply (BOQ)",
+   "blocks": [
+    {
+     "type": "paragraph",
+     "text": "This SOW does not fix the number or type of lighting fixtures. The Contractor shall determine the fixture types, locations and quantities for each building based on the site survey, the architectural assessment and the lighting design approved by the Client."
+    },
+    {
+     "type": "paragraph",
+     "text": "The BOQ in Appendix A is a pricing template, organized per building for the HR and LR buildings. The Contractor shall enter the proposed fixture types, quantities and unit prices for each building. The final number of units for each building shall be as per the site survey and the approved lighting design. The Contractor's unit rates shall remain fixed and shall apply to the final approved quantities."
+    },
+    {
+     "type": "table",
+     "columns": [
+      "Building Group",
+      "Buildings",
+      "Areas to be Assessed and Lit"
+     ],
+     "rows": [
+      [
+       "HR",
+       "A1, A2, A3, A4, A5, A6",
+       "Roof top, including roof-level architectural features (parapets, crowns, screens, cladding edges)"
+      ],
+      [
+       "LR",
+       "B1, B2, B3, B4",
+       "Roof top, including roof-level architectural features and any upper-level features identified in the assessment"
+      ]
+     ],
+     "widths": [
+      20,
+      22,
+      58
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Scope of Work",
+   "blocks": [
+    {
+     "type": "subheading",
+     "text": "Site Survey and Existing Condition Assessment"
+    },
+    {
+     "type": "paragraph",
+     "text": "Carry out a comprehensive site survey of all 10 buildings and verify the existing roof-top lighting, electrical infrastructure and installation conditions."
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "Record the existing roof-top installation, its condition and the items to be removed.",
+      "Verify existing power points, lighting distribution boards, spare capacity, earthing and control (timers/contactors).",
+      "Assess roof access, parapet and structure conditions for mounting fixtures, and any work-at-height constraints.",
+      "Identify cable routes for power and DMX cabling on roofs and between buildings.",
+      "Confirm the location of the central DMX controller and the network/backbone route between the HR and LR buildings."
+     ]
+    },
+    {
+     "type": "subheading",
+     "text": "Architectural Assessment of the Buildings"
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "Obtain and review the available architectural drawings and elevations of the buildings from Osool.",
+      "Study the architecture of each building: roof profile, massing, parapets, crowns, screens, vertical and horizontal lines, cladding materials, finishes and colours.",
+      "Identify the key architectural features to be highlighted and the surfaces to be avoided (glazing, reflective cladding).",
+      "Identify the main viewing points and distances (approach roads, entrances, plazas and neighboring areas).",
+      "Assess the relationship between the HR and LR buildings to achieve a unified identity across the business park.",
+      "Assess glare and light-spill impact on occupants, neighboring buildings and roads.",
+      "Submit an Architectural Assessment Report with photographs, marked-up elevations and the proposed lighting approach for each building."
+     ]
+    },
+    {
+     "type": "subheading",
+     "text": "Lighting Concept and Design"
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "Develop a lighting concept for each building that suits and enhances its architecture, with a consistent identity across the HR and LR buildings.",
+      "Select suitable fixture types for each feature (e.g. floodlights, wall washers, linear grazers, pixel/dot fixtures) with appropriate beam angles and output.",
+      "Provide night-time visualizations (photo-realistic renders) of each building type, showing white and colour scenes.",
+      "Provide lighting calculations (DIALux or equal) showing light levels, uniformity and glare control.",
+      "Provide an estimate of the total connected load and annual energy consumption.",
+      "Present the concept to Osool, incorporate comments and obtain written approval before detailed design.",
+      "Prepare the detailed design: fixture layout per building, quantity schedule by type, mounting details, power single-line diagram, DMX riser diagram and addressing plan."
+     ]
+    },
+    {
+     "type": "subheading",
+     "text": "Mock-up and Sample Approval"
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "Install a mock-up of the proposed fixtures on one HR building and one LR building, as agreed with Osool.",
+      "Demonstrate colour quality, output, beam angles and scenes during a night-time inspection with the Client.",
+      "Adjust the design as required and obtain written approval before ordering the full quantity."
+     ]
+    },
+    {
+     "type": "subheading",
+     "text": "Supply of RGB Lighting Fixtures (Saudi Brand Preferred)"
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "Supply RGB/RGBW LED fixtures of a Saudi local brand, manufactured or assembled in the Kingdom of Saudi Arabia, as first preference.",
+      "For a Saudi brand, submit the manufacturer commercial registration, factory address and local-content / Saudi Made certificate.",
+      "Where no suitable Saudi brand is available, the Contractor may offer an alternative brand, stating the reason, the country of origin and the local agent/distributor in KSA. Alternative brands are subject to Client approval.",
+      "Any offered brand shall have SASO/SALEEM conformity certificates, local after-sales support and spare-parts availability in KSA for the full 5-year warranty period.",
+      "Supply all mounting brackets, glare shields/visors where required, and stainless-steel fixings.",
+      "All fixtures shall meet the minimum technical requirements below."
+     ]
+    },
+    {
+     "type": "table",
+     "columns": [
+      "Item / Parameter",
+      "Minimum Requirement"
+     ],
+     "rows": [
+      [
+       "Fixture types",
+       "As per the approved lighting design (floodlights, wall washers, linear grazers, pixel/dot fixtures, etc.)"
+      ],
+      [
+       "Colour",
+       "RGBW (RGB + white) preferred; RGB acceptable where approved in the design"
+      ],
+      [
+       "Control",
+       "Native DMX512-A, RDM preferred; 16-bit flicker-free dimming"
+      ],
+      [
+       "Ingress / Impact",
+       "IP66 minimum (IP67 for exposed roof edges); IK08"
+      ],
+      [
+       "Operating temperature",
+       "−20 °C to +55 °C ambient"
+      ],
+      [
+       "Housing / Optics",
+       "Die-cast aluminium, marine-grade powder coat, tempered glass; beam angles per design"
+      ],
+      [
+       "Electrical",
+       "220–240 V AC, 60 Hz; PF ≥ 0.9; THD < 20 %; built-in surge protection ≥ 6 kV"
+      ],
+      [
+       "Lifetime",
+       "≥ 50,000 hours at L70"
+      ],
+      [
+       "Colour consistency",
+       "Binned LEDs; uniform colour between fixtures of the same type"
+      ],
+      [
+       "Certification",
+       "SASO / SALEEM, CE or equal, LM-79 / LM-80 test reports"
+      ],
+      [
+       "Warranty",
+       "5 years, full replacement"
+      ]
+     ],
+     "widths": [
+      24,
+      76
+     ]
+    },
+    {
+     "type": "subheading",
+     "text": "DMX Control System"
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "Supply, install and configure a central DMX512 / Art-Net (or sACN) controller with scene memory and astronomical scheduling.",
+      "Provide DMX splitters/boosters, decoders, network nodes, terminators and surge protection for every DMX line.",
+      "Configure each building as an individual zone, with sub-zones per architectural feature, and master control of all buildings.",
+      "Provide a UPS-backed controller enclosure, network switch and a control tablet/PC with licensed programming software.",
+      "The system shall restore the last scene automatically after a power failure.",
+      "Size the system for the final approved number of fixtures plus 25 % spare channels.",
+      "Provide non-expiring software licenses, programmer-level access passwords and configuration backups at handover."
+     ]
+    },
+    {
+     "type": "subheading",
+     "text": "Power and DMX Cabling and Containment"
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "Supply and install outdoor/UV-rated copper power cables sized for a maximum 3 % voltage drop.",
+      "Supply and install shielded twisted-pair 120 Ω DMX cable within DMX segment limits, with fiber or outdoor CAT6 backbone between buildings where required.",
+      "Install all outdoor cables in GI conduit, UV-resistant flexible conduit or cable tray; no exposed cable on roofs.",
+      "Connect the existing lighting distribution boards with new MCBs/RCBOs and contactors as required and verify DB load and earthing.",
+      "Seal and waterproof all roof and wall penetrations to the Client standard."
+     ]
+    },
+    {
+     "type": "subheading",
+     "text": "Removal of Existing Roof-Top Lighting"
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "Safely isolate, disconnect and remove the existing roof-top lighting fixtures, ballasts, ignitors and redundant cabling identified in the site survey.",
+      "Hand over removed items to the Osool store or dispose of them as instructed by the Client.",
+      "Make good any damage caused to roofs, parapets and finishes during removal."
+     ]
+    },
+    {
+     "type": "subheading",
+     "text": "Installation and Workmanship Requirements"
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "All installation work shall be carried out by competent and suitably experienced personnel.",
+      "Install fixtures as per the approved design, aimed and locked, with fixtures and cables concealed from main viewpoints where possible.",
+      "Protect existing operational systems, roof waterproofing and building services during work.",
+      "Label all fixtures (with DMX address), cables, junction boxes and panels, matching the as-built drawings.",
+      "Any required dismantling, reinstatement, minor associated work and making good necessary to complete the installation shall be included.",
+      "No circuit shall be energized until the required inspections and testing have been completed."
+     ]
+    },
+    {
+     "type": "subheading",
+     "text": "Programming and Scene Configuration"
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "Address all fixtures and configure the DMX universes as per the approved addressing plan.",
+      "Program a minimum of 20 scenes designed around the architecture, including static white, single colours, colour fades and chases.",
+      "Program occasion scenes for Saudi National Day, Founding Day, Ramadan and Eid.",
+      "Configure the weekly/annual schedule and astronomical on/off times.",
+      "Configure password-protected user levels for operation from the tablet/PC."
+     ]
+    },
+    {
+     "type": "subheading",
+     "text": "Testing, Commissioning and Handover"
+    },
+    {
+     "type": "subheading",
+     "text": "Pre-commissioning",
+     "level": 2
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "Visual inspection of all newly installed fixtures, brackets, cabling and containment.",
+      "Insulation resistance and earth continuity tests on all power circuits.",
+      "Verification of terminations, labeling, waterproofing of penetrations and physical condition.",
+      "Verification of DMX signal integrity, termination and addressing before functional testing."
+     ]
+    },
+    {
+     "type": "subheading",
+     "text": "Functional Testing",
+     "level": 2
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "Test every fixture on all colour channels (R, G, B, W) and dimming range.",
+      "Test each building zone individually and the master control of all buildings.",
+      "Test all programmed scenes, schedules and astronomical timing.",
+      "Test automatic scene recovery after power interruption.",
+      "Carry out a night-time inspection with the Client to confirm the result matches the approved design and visualizations, and complete final aiming adjustments.",
+      "The lighting system shall be completed and handed over in a healthy state, without any faulty fixture, channel or control function."
+     ]
+    },
+    {
+     "type": "table",
+     "columns": [
+      "Component",
+      "Target Parameter",
+      "Pass / Acceptance Criteria"
+     ],
+     "rows": [
+      [
+       "RGB Fixtures",
+       "Colour channels & output",
+       "100 % of installed fixtures operating on all channels, uniform colour across each feature"
+      ],
+      [
+       "Lighting Effect",
+       "Approved design",
+       "Night-time result matches the approved concept and visualizations"
+      ],
+      [
+       "DMX Network",
+       "Signal integrity",
+       "No flicker or signal loss; all fixtures respond at their assigned address"
+      ],
+      [
+       "Central Controller",
+       "Zones & scenes",
+       "All 10 building zones and ≥ 20 scenes operate from the controller and tablet"
+      ],
+      [
+       "Scheduling",
+       "Astronomical clock",
+       "Automatic on/off and occasion scenes run as programmed"
+      ],
+      [
+       "Power Circuits",
+       "Insulation & earthing",
+       "Test results within limits of SBC 401; no nuisance tripping"
+      ],
+      [
+       "Power Recovery",
+       "Auto-restore",
+       "Last scene restored automatically after power interruption"
+      ]
+     ],
+     "widths": [
+      20,
+      22,
+      58
+     ]
+    },
+    {
+     "type": "subheading",
+     "text": "Handover Requirements",
+     "level": 2
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "Final testing and commissioning reports.",
+      "DMX addressing plan, controller programming and configuration backup files.",
+      "Software license documentation and access passwords.",
+      "As-built drawings: fixture layouts, power SLDs and DMX riser diagrams.",
+      "Equipment data sheets and manufacturer documentation for all supplied items.",
+      "Record of removed fixtures handed over to the Osool store.",
+      "Training for the Osool operations and maintenance team (minimum 2 sessions).",
+      "Outstanding snag list, if any, with agreed closure status.",
+      "Formal initial handover following successful completion and acceptance of the works."
+     ]
+    },
+    {
+     "type": "subheading",
+     "text": "Maintenance, Warranty and Defects Rectification"
+    },
+    {
+     "type": "paragraph",
+     "text": "The Contractor shall provide a 5-year comprehensive warranty from the date of final handover, covering the RGB fixtures, LED drivers, DMX decoders/splitters, controller, software and installation workmanship. Faulty items shall be replaced free of charge, including labor and access equipment."
+    },
+    {
+     "type": "paragraph",
+     "text": "The Contractor shall respond within 48 hours of notification and complete the repair or replacement within 7 days. Replacement fixtures shall match the colour and output of the installed batch."
+    }
+   ]
+  },
+  {
+   "heading": "Applicable Standards, Codes and Authority Requirements",
+   "blocks": [
+    {
+     "type": "paragraph",
+     "text": "The Contractor shall execute the works in accordance with the applicable electrical and lighting requirements, approved project requirements, manufacturer recommendations, and requirements of the relevant authority having jurisdiction."
+    },
+    {
+     "type": "paragraph",
+     "text": "Where an applicable standard, authority requirement or existing approved system requirement is more stringent than the Contractor's proposed solution, the more stringent requirement shall be followed subject to Client approval."
+    },
+    {
+     "type": "paragraph",
+     "text": "Following is a non-exhaustive description of relevant Codes/ Standards that may be referenced."
+    },
+    {
+     "type": "table",
+     "columns": [
+      "Code / Standard",
+      "Title / Description"
+     ],
+     "rows": [
+      [
+       "SBC 401",
+       "Saudi Building Code – Electrical Requirements"
+      ],
+      [
+       "SASO / SALEEM",
+       "Saudi Standards, Metrology and Quality Organization product conformity"
+      ],
+      [
+       "IEC 60598",
+       "Luminaires – General requirements and tests"
+      ],
+      [
+       "IEC 60529",
+       "Degrees of protection provided by enclosures (IP code)"
+      ],
+      [
+       "ANSI E1.11 (DMX512-A)",
+       "Asynchronous serial digital data transmission standard for controlling lighting equipment"
+      ],
+      [
+       "ANSI E1.20 (RDM)",
+       "Remote Device Management over DMX512 networks"
+      ],
+      [
+       "IES LM-79 / LM-80",
+       "Photometric and LED lumen maintenance testing"
+      ],
+      [
+       "CIE 150",
+       "Guide on the limitation of the effects of obtrusive light from outdoor lighting installations"
+      ],
+      [
+       "LCGPA",
+       "Local Content and Government Procurement Authority – local content requirements"
+      ]
+     ],
+     "widths": [
+      24,
+      76
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Exclusions",
+   "blocks": [
+    {
+     "type": "paragraph",
+     "text": "No specific exclusions are identified. Civil or structural modifications to the buildings, and upgrades of main LV panels or transformers, are excluded unless identified during the site survey. Any work outside the items listed in this SOW/ BOQ, or any additional work arising from the site survey, shall be clearly identified by the Contractor and shall require Client approval before execution."
+    }
+   ]
+  },
+  {
+   "heading": "Inclusions",
+   "blocks": [
+    {
+     "type": "bullets",
+     "items": [
+      "Site survey and verification of existing lighting and electrical conditions.",
+      "Architectural assessment of all HR and LR buildings.",
+      "Lighting concept, night-time visualizations, lighting calculations, detailed design and technical submittals.",
+      "Mock-up installation and sample approval.",
+      "Supply of RGB LED fixtures as per the approved design (Saudi local brand preferred, or approved alternative), with brackets and accessories.",
+      "Supply and installation of the central DMX control system, network components and software licenses.",
+      "All power and DMX cabling, containment and connections to existing distribution boards.",
+      "Removal of existing roof-top lighting, and handover/disposal as instructed.",
+      "Installation, addressing, programming and scene configuration.",
+      "Testing, commissioning, final functional verification and approval from the appropriate Authority Having Jurisdiction (AHJ), where required.",
+      "Training, documentation, configuration backups and handover.",
+      "5-year comprehensive warranty."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Quality Assurance",
+   "blocks": [
+    {
+     "type": "bullets",
+     "items": [
+      "The lighting design shall be prepared by a qualified lighting designer with proven experience in architectural lighting; CVs and a portfolio of similar projects shall be submitted with the offer.",
+      "All supplied equipment and materials shall be new and suitable for Saudi outdoor conditions (high ambient temperature, UV, sand and dust).",
+      "Saudi local brands shall be given preference; any alternative brand shall be approved by the Client and supported by valid SASO/SALEEM certificates and local after-sales support.",
+      "The Contractor shall ensure that all workmanship and installation are of a professional standard acceptable to the manufacturer.",
+      "All testing shall be performed using suitable calibrated test equipment.",
+      "Any failed test shall be investigated, rectified and repeated until the required result is achieved.",
+      "DMX programming and controller configuration shall be performed by engineers trained or certified by the manufacturer."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Health, Safety and Environment (HSE)",
+   "blocks": [
+    {
+     "type": "bullets",
+     "items": [
+      "The Contractor shall comply with the Client's HSE requirements and all applicable site safety procedures, including, but not limited to, work at height, roof access and electrical isolation requirements.",
+      "The Contractor shall obtain the required permits and approvals before commencing work.",
+      "Appropriate isolation/LOTO procedures shall be applied where required for safe execution.",
+      "All roof-top work shall use certified fall protection, scaffolding, lifting equipment or rope access as applicable.",
+      "Work areas shall be maintained clean and safe throughout the execution and removed fixtures shall be disposed of in an environmentally responsible manner.",
+      "The Contractor shall protect occupants, tenants, existing systems and building operations during the works."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Deliverables Summary",
+   "blocks": [
+    {
+     "type": "table",
+     "columns": [
+      "#",
+      "Deliverable",
+      "Timing / Requirement"
+     ],
+     "rows": [
+      [
+       "1",
+       "Site survey and existing condition report",
+       "After site survey"
+      ],
+      [
+       "2",
+       "Architectural Assessment Report for all buildings",
+       "After site survey"
+      ],
+      [
+       "3",
+       "Lighting concept with night-time visualizations",
+       "For review/approval"
+      ],
+      [
+       "4",
+       "Lighting calculations and energy estimate",
+       "For review/approval"
+      ],
+      [
+       "5",
+       "Detailed design: layouts, quantity schedule per building, SLDs, DMX riser",
+       "Before mock-up"
+      ],
+      [
+       "6",
+       "Mock-up and sample approval",
+       "Before ordering"
+      ],
+      [
+       "7",
+       "Material submittals (datasheets, brand/origin, certificates)",
+       "Before ordering"
+      ],
+      [
+       "8",
+       "Final number of units per building and confirmed BOQ",
+       "After design approval"
+      ],
+      [
+       "9",
+       "DMX addressing plan and scene list",
+       "Before programming"
+      ],
+      [
+       "10",
+       "Testing and commissioning reports",
+       "At completion"
+      ],
+      [
+       "11",
+       "Controller programming/configuration backups",
+       "At commissioning/handover"
+      ],
+      [
+       "12",
+       "As-built drawings",
+       "At handover"
+      ],
+      [
+       "13",
+       "O&M / manufacturer documentation and training",
+       "At handover"
+      ],
+      [
+       "14",
+       "5-year warranty certificates",
+       "At handover"
+      ],
+      [
+       "15",
+       "Final handover dossier",
+       "At final acceptance"
+      ]
+     ],
+     "widths": [
+      6,
+      61,
+      33
+     ],
+     "align": [
+      "center",
+      "left",
+      "center"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Payment Terms",
+   "blocks": [
+    {
+     "type": "paragraph",
+     "text": "A 5% retention shall be withheld from each progress invoice payment. This cumulative 5% retention shall be held for a period of twelve (12) months following formal project handover acceptance."
+    },
+    {
+     "type": "paragraph",
+     "text": "Deductions under {{ref:Penalties}} are distinct performance remedies and shall not be drawn from the 5% warranty retention unless total liquidated damages exceed the 10% maximum contract value cap."
+    },
+    {
+     "type": "table",
+     "columns": [
+      "#",
+      "Payment Description",
+      "Payment %",
+      "Retention"
+     ],
+     "rows": [
+      [
+       "1",
+       "Advance payment against a promissory note issued through the Nafez platform, payable immediately upon issuance of the promissory note.",
+       "13%",
+       "5% of the invoice"
+      ],
+      [
+       "2",
+       "Upon Materials delivery, payable immediately upon invoice submission.",
+       "37%",
+       "5% of the invoice"
+      ],
+      [
+       "3",
+       "Progress payment, against certified Progressive Installation (WIR), is payable within 30 calendar days of invoice submission.",
+       "40%",
+       "5% of the invoice"
+      ],
+      [
+       "4",
+       "Upon T&C, payable within 30 calendar days from invoice submission.",
+       "10%",
+       "5% of the invoice"
+      ],
+      [
+       "",
+       "Total",
+       "100%",
+       "Retention to be released after one year/ 12 months from the final handover."
+      ]
+     ],
+     "bold_last_row": true,
+     "widths": [
+      5,
+      42,
+      13,
+      40
+     ],
+     "align": [
+      "center",
+      "left",
+      "center",
+      "left"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Project Schedule/ Plan",
+   "blocks": [
+    {
+     "type": "paragraph",
+     "text": "The required project duration and detailed milestone schedule are to be confirmed during procurement/contract award after issuance of the PO. The Contractor shall submit a detailed execution schedule (Gantt Chart) covering site survey, engineering, procurement, rectification, programming, testing, commissioning and handover within 7 days of Project kick-off meeting."
+    },
+    {
+     "type": "paragraph",
+     "text": "Proposed Project Schedule as per the final quotation:"
+    },
+    {
+     "type": "schedule",
+     "unit": "week",
+     "activities": [
+      {
+       "name": "Purchase Order Receipt & Project Kick-Off",
+       "start": 0,
+       "end": 0
+      },
+      {
+       "name": "Site Survey & Architectural Assessment of the Buildings",
+       "start": 1,
+       "end": 2
+      },
+      {
+       "name": "Lighting Concept, Visualizations & Design Approval",
+       "start": 2,
+       "end": 4
+      },
+      {
+       "name": "Mock-up, Material Submittals & Approval",
+       "start": 4,
+       "end": 5
+      },
+      {
+       "name": "Manufacturing & Site Delivery",
+       "start": 5,
+       "end": 9
+      },
+      {
+       "name": "Removal of Existing Lighting, Cabling & Installation Works",
+       "start": 7,
+       "end": 11
+      },
+      {
+       "name": "Programming, Testing, Commissioning & Night Inspection",
+       "start": 10,
+       "end": 12
+      },
+      {
+       "name": "Final Inspection, Training, Documentation & Project Handover",
+       "start": 12,
+       "end": 12
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "text": "The contractor shall comply with PMI in delivering the project and submit the detailed project plans below:"
+    },
+    {
+     "type": "numbered",
+     "items": [
+      {
+       "text": "Project scope management plan.",
+       "level": 1
+      },
+      {
+       "text": "Project schedule management plan.",
+       "level": 1
+      },
+      {
+       "text": "Project Communication management plan.",
+       "level": 1
+      },
+      {
+       "text": "Project Resources management plan shows the mobilization plan including histogram chart.",
+       "level": 1
+      },
+      {
+       "text": "Project Quality management plan.",
+       "level": 1
+      },
+      {
+       "text": "Project Stakeholder Management Plan.",
+       "level": 1
+      },
+      {
+       "text": "Project procurement management plan, there we ensure that the contractor raised the PO for the vendors etc.",
+       "level": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Penalties",
+   "blocks": [
+    {
+     "type": "numbered",
+     "items": [
+      {
+       "text": "**Site Attendance:**",
+       "level": 1
+      },
+      {
+       "text": "The contractor must ensure that a qualified representative (Project Engineer/ Project manager) is always present on-site during the execution of the project.",
+       "level": 2
+      },
+      {
+       "text": "If the contractor fails to have a representative present, a penalty of **2,500 SAR per day** will be applied for each day of absence.",
+       "level": 2
+      },
+      {
+       "text": "**Progress Reporting:** The contractor is required to submit progress reports on a **weekly and monthly basis** as follows:",
+       "level": 1
+      },
+      {
+       "text": "**Weekly Reports:** Must include the status of work compared to the project timeline, key milestones achieved, resources utilized, and any risks identified.",
+       "level": 2
+      },
+      {
+       "text": "**Monthly Reports:** Must include a comprehensive overview of progress, any changes to the project plan, and a forecast for the upcoming month.",
+       "level": 2
+      },
+      {
+       "text": "Failure to submit progress reports on time will incur penalties as follows:",
+       "level": 2
+      },
+      {
+       "text": "**Weekly Reports:** Penalty of **2,000 SAR** for each late or missed report.",
+       "level": 3
+      },
+      {
+       "text": "**Monthly Reports:** Penalty of **5,000 SAR** for each late or missed report.",
+       "level": 3
+      },
+      {
+       "text": "**Failure to Meet Specifications:**",
+       "level": 1
+      },
+      {
+       "text": "If the work does not meet the technical specifications as outlined in the scope of work or the quality of the work is deemed unsatisfactory by the client, the contractor will be subject to a 5% deduction from the payment for the affected phase.",
+       "level": 2
+      },
+      {
+       "text": "**Non-Compliance with Safety Regulations:**",
+       "level": 1
+      },
+      {
+       "text": "Any violation of safety regulations on-site, or failure to comply with the client's safety standards, will incur a penalty of **5,000 SAR per incident**. Repeated violations will lead to a review of the contract.",
+       "level": 2
+      }
+     ]
+    },
+    {
+     "type": "note",
+     "text": "Note: the total amount of deduction shall be as per the T&C (Max 10%)."
+    }
+   ]
+  },
+  {
+   "heading": "Document Control Procedures",
+   "blocks": [
+    {
+     "type": "numbered",
+     "items": [
+      "Document identification, numbering and version control as per standard.",
+      "Document control for drawings and technical files; the contractor shall provide as-built drawings reflecting the final configuration of RGB lighting system components which can be summarized as the following:",
+      {
+       "text": "Fixture layouts, power SLDs and DMX riser diagrams showing all changes.",
+       "level": 1
+      },
+      "The contractor shall provide operation and maintenance manuals for the RGB lighting components/ equipment, detailing operation, maintenance, and troubleshooting procedures.",
+      "The contractor shall provide warranty certificates for all installed RGB lighting system components/ equipment and services and confirm the warranty requirements in the commercial and technical proposal covering the supplied equipment and completed enhancement works. Any extended warranties provided by the OEM shall also be transferred to the client.",
+      "The contractor should provide Safety Data Sheets (SDS) and Technical Data Sheets (TDS) for all materials used.",
+      "For document review and approval workflow; The contractor shall provide inspection and test reports covering all relevant RGB lighting system components/ equipment, including DMX signal tests, system integration testing, and performance validation of control and monitoring functions.",
+      "The contractor shall provide calibration certificates for all testing equipment during inspections.",
+      "The contractor shall take full responsibility for any RGB lighting system defects or malfunctions arising from the date of site handover until final project completion and acceptance.",
+      "Documents control must be aligned with Osool’s latest release.",
+      "No license is required for documents control for Maximo; simply just the sorting of documents and submitted periodically, MS office valid license is ok.",
+      "Revision control for each submittal must be considered."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Risk Management Process",
+   "blocks": [
+    {
+     "type": "paragraph",
+     "text": "Based on the general requirements where the contractor must provide risk management plan for the RGB lighting project, the contractor must consider the following in their risk management plan:"
+    },
+    {
+     "type": "numbered",
+     "items": [
+      "Aligned with Osool operation Risk management SOP and don’t conflict.",
+      "Risk Identifications, such as:",
+      {
+       "text": "Technical/engineering risks; for example, providing daily supervision.",
+       "level": 1,
+       "bullet": true
+      },
+      {
+       "text": "Schedule risks.",
+       "level": 1,
+       "bullet": true
+      },
+      {
+       "text": "Tools kit.",
+       "level": 1,
+       "bullet": true
+      },
+      {
+       "text": "LOTO.",
+       "level": 1,
+       "bullet": true
+      },
+      {
+       "text": "RAMS",
+       "level": 1,
+       "bullet": true
+      },
+      {
+       "text": "Supply chain/ procurement risks.",
+       "level": 1,
+       "bullet": true
+      },
+      {
+       "text": "HSE Risks.",
+       "level": 1,
+       "bullet": true
+      },
+      {
+       "text": "Operational / Integration risks.",
+       "level": 1,
+       "bullet": true
+      },
+      {
+       "text": "Regulatory or compliance risks.",
+       "level": 1,
+       "bullet": true
+      },
+      "Risk Assessment:",
+      {
+       "text": "Risk evaluating using Osool hazard identification and risk assessment procedures.",
+       "level": 1,
+       "bullet": true
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "text": "The above point is going to be used for requesting work permits too."
+    },
+    {
+     "type": "numbered",
+     "items": [
+      "Risk Mitigation Measures:",
+      {
+       "text": "Provide preventative actions for each identified risk.",
+       "level": 1,
+       "bullet": true
+      },
+      {
+       "text": "And mitigation strategy.",
+       "level": 1,
+       "bullet": true
+      },
+      {
+       "text": "And Responsible party.",
+       "level": 1,
+       "bullet": true
+      },
+      "Risk monitoring and control:",
+      {
+       "text": "Method to track risks during the project life cycle.",
+       "level": 1,
+       "bullet": true
+      },
+      {
+       "text": "Frequency of risk review meetings.",
+       "level": 1,
+       "bullet": true
+      },
+      {
+       "text": "Process for updating the risk register.",
+       "level": 1,
+       "bullet": true
+      },
+      "Contingency and response plan:",
+      {
+       "text": "Actions to be taken in the event that an identified risk materializes.",
+       "level": 1,
+       "bullet": true
+      },
+      {
+       "text": "Recovery measures for:",
+       "level": 1,
+       "bullet": true
+      },
+      {
+       "text": "Schedule.",
+       "level": 2,
+       "bullet": true
+      },
+      {
+       "text": "Cost.",
+       "level": 2,
+       "bullet": true
+      },
+      {
+       "text": "System functionality.",
+       "level": 2,
+       "bullet": true
+      },
+      "Risk Ownership and reporting:",
+      {
+       "text": "Define risk owners.",
+       "level": 1,
+       "bullet": true
+      },
+      {
+       "text": "Reporting structure for risk escalation.",
+       "level": 1,
+       "bullet": true
+      },
+      "Risk register: Submit risk register including:",
+      {
+       "text": "Risk ID.",
+       "level": 1,
+       "bullet": true
+      },
+      {
+       "text": "Saudi council for engineers site auditing to make sure workers professions must be mentioned in their Iqamas too.",
+       "level": 1,
+       "bullet": true
+      },
+      {
+       "text": "Probability.",
+       "level": 1,
+       "bullet": true
+      },
+      {
+       "text": "Impact.",
+       "level": 1,
+       "bullet": true
+      },
+      {
+       "text": "Mitigation.",
+       "level": 1,
+       "bullet": true
+      },
+      {
+       "text": "Responsible party.",
+       "level": 1,
+       "bullet": true
+      },
+      {
+       "text": "Status.",
+       "level": 1,
+       "bullet": true
+      },
+      "System integration risks:",
+      {
+       "text": "Communication protocol failures.",
+       "level": 1,
+       "bullet": true
+      },
+      {
+       "text": "Power supply interruptions.",
+       "level": 1,
+       "bullet": true
+      },
+      {
+       "text": "Network limitations.",
+       "level": 1,
+       "bullet": true
+      },
+      "System architecture risks.",
+      "System operational risks."
+     ],
+     "start": 4
+    }
+   ]
+  },
+  {
+   "heading": "Tenant Access and Coordination Requirements",
+   "blocks": [
+    {
+     "type": "numbered",
+     "items": [
+      "The contractor shall comply with the tenant access and notification procedures of Osool.",
+      "The contractor shall be responsible for submitting complete and timely access, maintenance, and shutdown requests as required, ensuring proper coordination with all affected tenants.",
+      "All access-related communications shall be managed by the designated Project Manager and coordinated directly with Osool representatives.",
+      "The contractor shall ensure the availability and submission of valid personnel IDs for all staff involved in tenant area activities.",
+      "In case of access issues, the contractor shall promptly escalate to Osool representative, ensuring minimal disruption to project activities."
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Appendices",
+   "blocks": [
+    {
+     "type": "paragraph",
+     "text": "Appendix A - BOQ pricing template (per building, HR and LR; quantities by the Contractor as per the approved design)"
+    },
+    {
+     "type": "paragraph",
+     "text": "Appendix B - Architectural assessment, lighting concept and visualizations (by the Contractor)"
+    },
+    {
+     "type": "paragraph",
+     "text": "Appendix C - Fixture and DMX controller datasheets, brand / local-content, SASO/SALEEM and warranty certificates (by the Contractor)"
+    }
+   ]
+  }
+ ]
+}

@@ -17,8 +17,8 @@ from pathlib import Path
 
 import streamlit as st
 
-from sow_agent.agent import AgentError, SOWAgent
-from sow_agent.config import load_env, workspace_dir
+from sa_agent import AgentError, SOWAgent
+from sa_config import load_env, workspace_dir
 
 DOCX_MIME = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
 UPLOAD_TYPES = ["pdf", "docx", "xlsx", "png", "jpg", "jpeg", "txt", "csv"]
