@@ -53,6 +53,40 @@ Commands in the chat:
 | `/file` | show where the latest Word file is |
 | `/quit` | leave |
 
+## Use it as a web page (Streamlit)
+
+On your computer: double-click `start_web.bat` (macOS / Linux: `streamlit run streamlit_app.py`).
+The page opens in your browser at http://localhost:8501. Attach files with the paperclip in the
+message box; each SOW appears with a Download button.
+
+Online, so it works from your phone at any time (Streamlit Community Cloud, free):
+
+1. Create a free GitHub account and a new **private** repository, for example `sow-agent`.
+   Private matters: the folder contains your Osool template and reference SOW.
+2. Upload everything in this folder to the repository (on the repository page: Add file, Upload
+   files, drag the contents in). Do not upload `.env`, `.venv` or `workspace`.
+3. Go to https://share.streamlit.io, sign in with GitHub, click **Create app**, then
+   **Yup, I have an app**.
+4. Choose your repository, branch `main`, and main file path `streamlit_app.py`.
+5. Click **Advanced settings** and paste this into **Secrets**, with your own values:
+
+       ANTHROPIC_API_KEY = "sk-ant-..."
+       APP_PASSWORD = "choose-a-long-password"
+       SOW_MODEL = "claude-opus-5-5"
+
+6. Click **Save**, then deploy. After a few minutes you get an address ending in `streamlit.app`.
+   Open it on your phone and add it to the home screen.
+
+Notes for the online version:
+- An app from a private repository is private: only you can open it after signing in, and you can
+  invite viewers by email from the Share button. Community Cloud allows one private app at a time.
+- `APP_PASSWORD` is a second lock in front of your API key. Keep it set.
+- Download each Word file when it is made. Treat projects saved on the cloud server as temporary,
+  because the server can be restarted.
+- Community Cloud servers are in the United States. Check that this is acceptable for your
+  company's documents before using it for real projects; otherwise run the page on a company
+  machine with `start_web.bat`.
+
 ## Use it from your phone (Telegram)
 
 1. In Telegram, open a chat with **@BotFather**, send `/newbot`, choose a name, and copy the token
